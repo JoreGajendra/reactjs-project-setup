@@ -55,9 +55,7 @@ React.js Project setup from Scratch
 		ReactDOM.render(<App />, document.getElementById('app'));
 		
 		export default App;
-
-
-9. Now install modules required for packaging i.e. webpack dependencies
+	9. Now install modules required for packaging i.e. webpack dependencies
 	a. Webpack, Wepack CLI
 		 npm install -D webpack webpack-cli
 	b. Webpack Dev server 
@@ -111,3 +109,6 @@ React.js Project setup from Scratch
   
 13. To execute the project on Webpack-Dev-Server
 npx webpack serve
+
+
+
