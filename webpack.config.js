@@ -31,7 +31,7 @@
 	        ]
 	    },
 	    devServer:{
-	        contentBase:path.join(__dirname,"dist"),
+	        static:path.join(__dirname,"dist"),
 	        port:5555,
 	        hot:true
 	    }
