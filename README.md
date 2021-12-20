@@ -109,7 +109,7 @@ React JS Project Setup From Scratch
 		        ]
 		    },
 		    devServer:{
-		        contentBase:path.join(__dirname,"dist"),
+		        static:path.join(__dirname,"dist"),
 		        port:7000,
 		        hot:true
 		    }
